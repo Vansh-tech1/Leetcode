@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh-tech1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vansh-tech1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vansh-tech1/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vansh-tech1/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vansh-tech1/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vansh-tech1/Leetcode/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Vansh-tech1/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
