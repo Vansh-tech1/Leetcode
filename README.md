@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh-tech1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Vansh-tech1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vansh-tech1/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Vansh-tech1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Vansh-tech1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Vansh-tech1/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vansh-tech1/Leetcode/tree/master/0189-rotate-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vansh-tech1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vansh-tech1/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vansh-tech1/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vansh-tech1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vansh-tech1/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Vansh-tech1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
