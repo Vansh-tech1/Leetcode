@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vansh-tech1/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Vansh-tech1/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh-tech1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Vansh-tech1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vansh-tech1/Leetcode/tree/master/0054-spiral-matrix) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vansh-tech1/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh-tech1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vansh-tech1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vansh-tech1/Leetcode/tree/master/0189-rotate-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vansh-tech1/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Vansh-tech1/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vansh-tech1/Leetcode/tree/master/0268-missing-number) |
 ## Counting
