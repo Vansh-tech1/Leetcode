@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vansh-tech1/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vansh-tech1/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vansh-tech1/Leetcode/tree/master/0283-move-zeroes) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Vansh-tech1/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vansh-tech1/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vansh-tech1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Vansh-tech1/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vansh-tech1/Leetcode/tree/master/0268-missing-number) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Vansh-tech1/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vansh-tech1/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh-tech1/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Vansh-tech1/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
